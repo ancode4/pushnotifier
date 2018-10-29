@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "533279714641",
+    "firebase_url": "https://pushapp-6ee7e.firebaseio.com",
+    "project_id": "pushapp-6ee7e",
+    "storage_bucket": "pushapp-6ee7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533279714641:android:59c75bf01a4dd1b8",
+        "android_client_info": {
+          "package_name": "com.metamug.pushnotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533279714641-k9j6j60h238sv4bpc0asu7349q85ubk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAY0RottMQMwO_oWS2XoIIp-uVEBWez2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
